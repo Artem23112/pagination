@@ -1,0 +1,17 @@
+.link,
+.bth {
+    display: inline-block;
+    padding: 6px 12px;
+    margin: 10px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+
+.link {
+    text-decoration-color: transparent;
+    transition: all .3s;
+}
+
+.link:hover {
+    text-decoration-color: inherit;
+}

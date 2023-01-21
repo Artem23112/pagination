@@ -1,0 +1,35 @@
+/* PRIMARY */
+
+.primary {
+    background-color: #cce5ff;
+    color: #039;
+    border-color: #039;
+}
+
+.primary .alert-link {
+    color: #036;
+}
+
+/* SECONDARY */
+
+.secondary {
+    background-color: #ccc;
+    color: #383d41;
+    border-color: #383d41;
+}
+
+.secondary .alert-link {
+    color: #202326;
+}
+
+/* DANGER */
+
+.danger {
+    background-color: #f8d7da;
+    color: #721c24;
+    border-color: #721c24;
+}
+
+.danger .alert-link {
+    color: #491217;
+}
